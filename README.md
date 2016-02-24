@@ -1,5 +1,3 @@
-# One Month Rails
+# CarrieCodes.com
 
-This is the pinteresting sample application for [*One Month Rails*](http://onemonthrails.com)
-
-Let's see what Ruby on Rails can do!
+Welcome to the code for my website. It's not super exciting but if you're interested in how I've set everything up then come on in and poke around.
